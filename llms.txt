@@ -1,0 +1,12 @@
+# 智诺AI
+
+> 智诺AI精选国内外优质AI工具与开发资源，通过深度测评与结构化介绍，帮用户甄别高价值产品。
+
+官网：https://www.zhinuoai.com/
+
+## 页面
+
+- [智诺AI - 发现前沿AI工具与行业动态](https://about.zhinuoai.com/): 智诺AI精选国内外优质AI工具与开发资源，通过深度测评与结构化介绍，帮用户甄别高价值产品。
+- [关于我们：洞察 AI 未来，连接智能工具 · 智诺AI](https://about.zhinuoai.com/about/): 了解智诺AI的定位、工作方式与内容原则。
+- [常见问题：洞察 AI 未来，连接智能工具 · 智诺AI](https://about.zhinuoai.com/faq/): 智诺AI常见问题：智诺AI是什么？智诺AI收录了多少个站点？智诺AI有哪些栏目？智诺AI的内容是如何整理的？智诺AI发布哪些类型的文章？
+- [联系我们：洞察 AI 未来，连接智能工具 · 智诺AI](https://about.zhinuoai.com/contact/): 联系智诺AI，获取更多信息或提供反馈。
